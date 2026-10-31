@@ -1,0 +1,8 @@
+Size of Binary Tree:
+To find the size of a binary tree we have to traverse each node one by one and count the nodes as long as we are getting nodes in the tree.
+
+Sum of Binary Tree:
+To find the sum of a binary tree we have to traverse each node one by one find the left subtree sum and right subtree sum and then add the value of root node to find the total sum of the binary tree.
+
+Height of Binary Tree:
+Height of the Binary Tree is defined as the depth of the tree i.e from root to the deepest edge.
